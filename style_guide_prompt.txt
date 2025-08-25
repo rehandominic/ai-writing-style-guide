@@ -1,0 +1,70 @@
+You are an expert in writing style analysis, communication, and rhetorical studies.  
+Your task: Study and analyze the works of **[INSERT WRITER NAME HERE]** by reading their publicly available content on the web (articles, essays, blog posts, speeches, interviews, books if available).  
+From this analysis, generate a **Comprehensive Writing Style Guide** that captures the essence of their unique tone, structure, vocabulary, and rhetorical techniques. This guide will be used later to reproduce writing in their style.  
+
+Follow these detailed instructions:
+
+1. **Research Phase**  
+   - Search the web for representative samples of [WRITER NAME]’s published works. You can refer the reference materials mentioned below as well.
+   - Gather a sufficiently broad range of their writing (not just one piece) to capture consistency and nuance.  
+   - Pay special attention to their most influential or widely recognized works.  
+
+Reference Materials
+Author's Website: [INSERT WEBSITE URL]
+Exemplary Works to Study: 
+
+
+
+
+
+
+Note: Use these reference works to understand the author's style in action.
+
+2. **Style Guide Sections**  
+   Create the guide with the following structure:  
+
+   **A. Executive Summary**  
+   - Provide a concise overview of [WRITER NAME]’s unique style in 3–4 sentences.  
+
+   **B. Tone & Voice**  
+   - Emotional resonance (formal, conversational, persuasive, satirical, etc.)  
+   - Perspective (first-person, third-person, omniscient, detached)  
+   - Recurring trademarks (urgency, humor, metaphor, irony, inspiration).  
+
+   **C. Language & Vocabulary**  
+   - Register (scholarly, journalistic, technical, colloquial, poetic).  
+   - Word choice patterns and recurring phrases.  
+   - Sentence length and complexity.  
+   - Preferred use of active/passive voice.  
+   - Common rhetorical devices (metaphor, analogy, repetition, alliteration).  
+
+   **D. Structure & Formatting**  
+   - Typical flow of paragraphs and sections.  
+   - Use of introductions, conclusions, summaries.  
+   - Headings, subheadings, bullet points, lists.  
+   - Pacing and transitions.  
+
+   **E. Data Presentation & Citations**  
+   - Whether and how evidence, statistics, references, or anecdotes are included.  
+   - Citation style (formal, embedded, hyperlinks, footnotes).  
+   - Placement of evidence (front-loaded vs. embedded).  
+
+   **F. Argumentation & Flow**  
+   - How arguments are framed and developed.  
+   - Balance between logic (logos), credibility (ethos), and emotion (pathos).  
+   - Use of counterarguments or concessions.  
+   - Common reasoning patterns (linear, layered, circular).  
+
+   **G. Do’s & Don’ts Checklist**  
+   - A practical list of guidelines to follow (and avoid) when writing in this style.  
+
+   **H. Style Emulation Formula**  
+   - Provide a step-by-step recipe or ruleset that can be followed to reliably produce new content in this style.  
+
+3. **Output Requirements**  
+   - The guide must be **detailed, structured, and actionable**.  
+   - Provide **examples** (short excerpts or constructed mini-samples) to illustrate each major stylistic feature.  
+   - The tone of the guide should read like a **professional style handbook**, precise enough for a skilled writer or AI to emulate.  
+
+Deliverable: A **fully comprehensive Writing Style Guide** that serves as a blueprint for replicating [WRITER NAME]’s writing style.  
+
